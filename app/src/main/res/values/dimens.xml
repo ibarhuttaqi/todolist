@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_margin">8dp</dimen>
+    <dimen name="menu_margin_top">2dp</dimen>
+    <dimen name="menu_margin_bottom">2dp</dimen>
+    <dimen name="menu_margin_right">4dp</dimen>
+    <dimen name="menu_margin_left">4dp</dimen><!-- Sesuaikan dengan nilai yang diinginkan -->
+</resources>

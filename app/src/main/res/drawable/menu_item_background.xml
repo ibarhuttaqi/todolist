@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@color/biru4" /> <!-- Ganti dengan warna yang diinginkan -->
+        <corners android:radius="12dp" /> <!-- Ganti dengan nilai radius yang diinginkan -->
+        <stroke
+            android:width="2dp"
+            android:color="@android:color/darker_gray" /> <!-- Atur warna garis batas -->
+    </shape>
+<!--</selector>-->

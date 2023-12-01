@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru1">#00A9FF</color>
+    <color name="biru2">#CDF5FD</color>
+    <color name="biru3">#A0E9FF</color>
+    <color name="biru4">#ECF4D6</color>
+    <!-- Ganti dengan kode warna biru muda yang diinginkan -->
+</resources>
